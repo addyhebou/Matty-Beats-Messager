@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/addyhebou/Matty-Beats-Messager/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/addyhebou/Matty-Beats-Messager/static/js/main.689ac0d2.chunk.js",
-    "main.js.map": "/addyhebou/Matty-Beats-Messager/static/js/main.689ac0d2.chunk.js.map",
-    "runtime-main.js": "/addyhebou/Matty-Beats-Messager/static/js/runtime-main.066ead3f.js",
-    "runtime-main.js.map": "/addyhebou/Matty-Beats-Messager/static/js/runtime-main.066ead3f.js.map",
-    "static/js/2.07563b63.chunk.js": "/addyhebou/Matty-Beats-Messager/static/js/2.07563b63.chunk.js",
-    "static/js/2.07563b63.chunk.js.map": "/addyhebou/Matty-Beats-Messager/static/js/2.07563b63.chunk.js.map",
-    "static/js/3.9d3d8211.chunk.js": "/addyhebou/Matty-Beats-Messager/static/js/3.9d3d8211.chunk.js",
-    "static/js/3.9d3d8211.chunk.js.map": "/addyhebou/Matty-Beats-Messager/static/js/3.9d3d8211.chunk.js.map",
+    "main.js": "/addyhebou/Matty-Beats-Messager/static/js/main.2a22471e.chunk.js",
+    "main.js.map": "/addyhebou/Matty-Beats-Messager/static/js/main.2a22471e.chunk.js.map",
+    "runtime-main.js": "/addyhebou/Matty-Beats-Messager/static/js/runtime-main.4c8ab9e2.js",
+    "runtime-main.js.map": "/addyhebou/Matty-Beats-Messager/static/js/runtime-main.4c8ab9e2.js.map",
+    "static/js/2.c9069adb.chunk.js": "/addyhebou/Matty-Beats-Messager/static/js/2.c9069adb.chunk.js",
+    "static/js/2.c9069adb.chunk.js.map": "/addyhebou/Matty-Beats-Messager/static/js/2.c9069adb.chunk.js.map",
+    "static/js/3.5d5e7eb1.chunk.js": "/addyhebou/Matty-Beats-Messager/static/js/3.5d5e7eb1.chunk.js",
+    "static/js/3.5d5e7eb1.chunk.js.map": "/addyhebou/Matty-Beats-Messager/static/js/3.5d5e7eb1.chunk.js.map",
     "index.html": "/addyhebou/Matty-Beats-Messager/index.html",
     "static/css/main.8c8b27cf.chunk.css.map": "/addyhebou/Matty-Beats-Messager/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.07563b63.chunk.js.LICENSE.txt": "/addyhebou/Matty-Beats-Messager/static/js/2.07563b63.chunk.js.LICENSE.txt"
+    "static/js/2.c9069adb.chunk.js.LICENSE.txt": "/addyhebou/Matty-Beats-Messager/static/js/2.c9069adb.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.066ead3f.js",
-    "static/js/2.07563b63.chunk.js",
+    "static/js/runtime-main.4c8ab9e2.js",
+    "static/js/2.c9069adb.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.689ac0d2.chunk.js"
+    "static/js/main.2a22471e.chunk.js"
   ]
 }
