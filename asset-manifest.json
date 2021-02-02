@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/addyhebou/Matty-Beats-Messager/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/addyhebou/Matty-Beats-Messager/static/js/main.0f3ea309.chunk.js",
+    "main.js.map": "/addyhebou/Matty-Beats-Messager/static/js/main.0f3ea309.chunk.js.map",
+    "runtime-main.js": "/addyhebou/Matty-Beats-Messager/static/js/runtime-main.066ead3f.js",
+    "runtime-main.js.map": "/addyhebou/Matty-Beats-Messager/static/js/runtime-main.066ead3f.js.map",
+    "static/js/2.724a06e9.chunk.js": "/addyhebou/Matty-Beats-Messager/static/js/2.724a06e9.chunk.js",
+    "static/js/2.724a06e9.chunk.js.map": "/addyhebou/Matty-Beats-Messager/static/js/2.724a06e9.chunk.js.map",
+    "static/js/3.9d3d8211.chunk.js": "/addyhebou/Matty-Beats-Messager/static/js/3.9d3d8211.chunk.js",
+    "static/js/3.9d3d8211.chunk.js.map": "/addyhebou/Matty-Beats-Messager/static/js/3.9d3d8211.chunk.js.map",
+    "index.html": "/addyhebou/Matty-Beats-Messager/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/addyhebou/Matty-Beats-Messager/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.724a06e9.chunk.js.LICENSE.txt": "/addyhebou/Matty-Beats-Messager/static/js/2.724a06e9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.066ead3f.js",
+    "static/js/2.724a06e9.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.0f3ea309.chunk.js"
+  ]
+}
