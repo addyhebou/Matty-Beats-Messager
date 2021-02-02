@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/addyhebou/Matty-Beats-Messager/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/addyhebou/Matty-Beats-Messager/static/js/main.2a22471e.chunk.js",
-    "main.js.map": "/addyhebou/Matty-Beats-Messager/static/js/main.2a22471e.chunk.js.map",
+    "main.js": "/addyhebou/Matty-Beats-Messager/static/js/main.ab6b3045.chunk.js",
+    "main.js.map": "/addyhebou/Matty-Beats-Messager/static/js/main.ab6b3045.chunk.js.map",
     "runtime-main.js": "/addyhebou/Matty-Beats-Messager/static/js/runtime-main.4c8ab9e2.js",
     "runtime-main.js.map": "/addyhebou/Matty-Beats-Messager/static/js/runtime-main.4c8ab9e2.js.map",
     "static/js/2.c9069adb.chunk.js": "/addyhebou/Matty-Beats-Messager/static/js/2.c9069adb.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.4c8ab9e2.js",
     "static/js/2.c9069adb.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.2a22471e.chunk.js"
+    "static/js/main.ab6b3045.chunk.js"
   ]
 }
