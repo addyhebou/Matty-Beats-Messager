@@ -10,7 +10,7 @@ function App() {
     <div className="App">
       <Router>
         <Switch>
-          <Route path = "/" component = { Index }/>
+          <Route exact path = "/" component = { Index }/>
           <Route component = { Index }/>
         </Switch>
       </Router>
